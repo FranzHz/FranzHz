@@ -34,10 +34,10 @@
 
 ## ❤️ Aficiones
 
-🎧 Edición de música y video  
-📸 Fotografía y retoque digital  
-🌍 Aprendizaje de idiomas: inglés y portugués
-📖 Crecimiento personal, inversiones y tecnología emergente  
+🎧 Edición de música y video.  
+📸 Fotografía y retoque digital.  
+🌍 Aprendizaje de idiomas: inglés y portugués.
+📖 Crecimiento personal, inversiones y tecnología emergente.
 
 ---
 
