@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Francisco — Técnico de Soporte TI y Desarrollador en Formación
+# 👋 ¡Hola! Soy Franz — Técnico de Soporte TI y Desarrollador en Formación
 
 💻 Técnico con 9 años de experiencia en soporte informático, mantenimiento de equipos, redes e impresoras.  
 🎨 Apasionado por el diseño UX/UI, la edición multimedia y el desarrollo de software.  
