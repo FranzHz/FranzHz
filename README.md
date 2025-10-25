@@ -7,7 +7,6 @@
 ---
 
 ## 🧰 Experiencia profesional
-- **2015 - Presente | Técnico de Soporte TI**
   - Mantenimiento y reparación de computadoras, impresoras y redes.
   - Administración de laboratorios de cómputo conectados en red.
   - Automatización de tareas con PowerShell.
@@ -26,16 +25,14 @@
 
 ## 📚 En aprendizaje
 
-- Desarrollo de software (Java, Python, Flutter).  
-- Diseño UX/UI y experiencia de usuario.  
-- Análisis de datos, automatización e inteligencia artificial.  
+- Desarrollo de software (Html, CSS, Java Script, Python, SQL, Flutter).   
+- Análisis de datos, automatización.  
 
 ---
 
 ## ❤️ Aficiones
 
 🎧 Edición de música y video.  
-📸 Fotografía y retoque digital.  
 🌍 Aprendizaje de idiomas: inglés y portugués.
 📖 Crecimiento personal, inversiones y tecnología emergente.
 
